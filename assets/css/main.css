@@ -1544,7 +1544,7 @@ input, select, textarea {
 			transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
 			padding: 4.5rem 3.5rem 1.5rem 3.5rem ;
 			position: relative;
-			width: 60rem;
+			width: 55rem;
 			max-width: 100%;
 			background-color: rgba(56, 58, 60, 0.9);
 			border-radius: 4px;
