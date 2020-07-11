@@ -118,7 +118,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 14pt;
 			}
 
 		}
@@ -1546,7 +1546,7 @@ input, select, textarea {
 			position: relative;
 			width: 60rem;
 			max-width: 100%;
-			background-color: rgba(54, 56, 57, 0.7);
+			background-color: rgba(56, 58, 60, 0.9);
 			border-radius: 4px;
 			opacity: 0;
 		}
